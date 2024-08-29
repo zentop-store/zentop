@@ -1,6 +1,6 @@
 <?php
 
-require '../vendor/autoload.php'; // Path ini disesuaikan
+require 'vendor/autoload.php'; // Path ini disesuaikan
 
 use Aditdev\ApiGames;
 
