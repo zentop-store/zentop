@@ -1,0 +1,6 @@
+{
+    "require": {
+        "aditamagf/check-ign": "^1.2",
+        "twilio/sdk": "^8.2"
+    }
+}
